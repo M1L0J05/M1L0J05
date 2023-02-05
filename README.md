@@ -7,7 +7,7 @@ Creo aplicaciones y herramientas de sofware, o modifico algunas existentes, a pe
 <h2> Tecnologías:</h2>
 
 <p align="left" width="200">
-   <img align="left" width="20" src="./images/linux-tux.svg"/>
+   <img align="left" width="20" src="./images/linux-mint.svg"/>
    Linux Mint, mi distribución preferida.
 </p>
 
