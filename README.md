@@ -1,4 +1,4 @@
-<h1 align="left">¡Hey 👋! Soy MiLo_Jos. Bienvenido a mi gitHub.</h1>
+<h1 align="left">¡Hey 👋! Soy MiLo_JoS. Bienvenido a mi gitHub.</h1>
 
 ![](./images/BannerGitHub.png)
 
